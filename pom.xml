@@ -971,7 +971,7 @@ descent loss of performance)
     <curator>4.0.0</curator>
     <mysql.connector.java>5.1.9</mysql.connector.java>
     <cassandra.driver>3.3.0</cassandra.driver>
-    <cassandra>3.11.0</cassandra>
+    <cassandra>3.11.8</cassandra>
     <cascading.cassandra>2.0.6</cascading.cassandra>
     <hibernate>5.2.1.Final</hibernate>
     <junit>4.12</junit>
